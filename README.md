@@ -1,5 +1,5 @@
 ### Hi, I'm Marnie :D
-<img align='right' src="https://www.pngfind.com/pngs/b/381-3815134_kawaii-anime-png.png" width="230">
+<img align='right' src="https://www.pngfind.com/pngs/b/381-3815134_kawaii-anime-png.png" width="300">
 <p><em> I'm a data cientist and I'm in love with data security and cybersecurity. </a>
  </em></p>
  
