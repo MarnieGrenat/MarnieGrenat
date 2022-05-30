@@ -5,7 +5,8 @@
  
 <p align="left">
   Languages and Skills: <strong>Javascript, Typescript and Java </strong>
- <strong>- 📫 How to reach me: </strong> g.paim02@edu.pucrs.br
+ </p>
+ <p align="left"> <strong>- 📫 How to reach me: </strong> g.paim02@edu.pucrs.br
 </p>
 
 
