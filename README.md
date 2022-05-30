@@ -1,10 +1,11 @@
 ### Hi, I'm Marnie :D
 <img align='right' src="https://www.pngfind.com/pngs/b/381-3815134_kawaii-anime-png.png" width="300">
-<p><em> I'm a data cientist and I'm in love with data security and cybersecurity. </a>
+<p><em> I'm a data cientist student in love with data security and cybersecurity. </a>
  </em></p>
  
 <p align="left">
-  Languages and Skills: <strong>Javascript and Java </strong>
+  Languages and Skills: <strong>Javascript, Typescript and Java </strong>
+ <strong>- 📫 How to reach me: </strong> g.paim02@edu.pucrs.br
 </p>
 
 
