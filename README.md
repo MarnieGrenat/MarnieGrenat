@@ -6,7 +6,7 @@
 <p align="left">
   Languages and Skills: <strong>Javascript, Typescript and Java </strong>
  </p>
- <p align="left"> <strong>- 📫 How to reach me: </strong> g.paim02@edu.pucrs.br
+ <p align="left"> <strong>- 📫 How to reach me: </strong> gabriela@dellamora.dev
 </p>
 <p align="left"> <strong> - 😄 Pronouns: </strong> She/her and they/them
  </p>
