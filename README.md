@@ -1,6 +1,6 @@
 ### Hi, I'm Gabriela :D
 <img align='right' src="https://www.pngfind.com/pngs/b/381-3815134_kawaii-anime-png.png" width="300">
-<p><em> I'm a data cientist student in love with data security, cybersecurity and BIG DATA 	♡ . </a>
+<p><em> A data cientist student in love with data security, cybersecurity and BIG DATA 	♡ . </a>
  </em></p>
  
 <p align="left">
@@ -11,11 +11,13 @@
  </p>
  <p align="left"> <strong> - 🖖 I’m currently learning: </strong> Python!
  </p>
+ <p align="left"> <strong> - 	:detective: student at uni:  </strong> PUC-RS
+ </p>
   <p align="left"> <strong> - 👀 I’m currently working on: </strong> Java Library for sorting algorithms
  </p>
 
 <p align="left">
- Find me:
+ <strong> - :blue_heart: Find me: </strong>
 </p>
 
 
