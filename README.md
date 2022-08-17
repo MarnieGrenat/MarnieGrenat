@@ -11,7 +11,7 @@
  </p>
  <p align="left"> <strong> - 🖖 I’m currently learning: </strong> Python!
  </p>
- <p align="left"> <strong> - 	:detective: student at uni:  </strong> PUC-RS
+ <p align="left"> <strong> - 	:woman_student: student at uni:  </strong> PUC-RS
  </p>
   <p align="left"> <strong> - 👀 I’m currently working on: </strong> Java Library for sorting algorithms
  </p>
