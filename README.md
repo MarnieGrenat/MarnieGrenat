@@ -10,9 +10,9 @@
 </p>
 <p align="left"> <strong> - 😄 Pronouns: </strong> She/her and they/them
  </p>
- <p align="left"> <strong> - - 🖖 I’m currently learning: Python!
+ <p align="left"> <strong> - 🖖 I’m currently learning: Python!
  </p>
-  <p align="left"> <strong> - - 👀 I’m currently working on [Data Sort Library for Java!](https://github.com/MarnieGrenat/sorting-library)
+  <p align="left"> <strong> - 👀 I’m currently working on: Data Sort Library for Java
  </p>
 
 <p align="left">
