@@ -4,7 +4,7 @@
  </em></p>
  
 <p align="left">
-  Languages and Skills: <strong>Javascript, Typescript and Java </strong>
+  Languages and Skills: <strong>Javascript, Python and Java </strong>
  </p>
  <p align="left"> <strong>- 📫 How to reach me: </strong> gabriela@dellamora.dev
 </p>
