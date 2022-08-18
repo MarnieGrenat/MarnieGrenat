@@ -1,4 +1,4 @@
-### Hi, I'm Gabriela :D
+### Hi, I'm Gabriela ;D
 <img align='right' src="https://www.pngfind.com/pngs/b/381-3815134_kawaii-anime-png.png" width="300">
 <p><em> A data cientist student in love with data security, cybersecurity and BIG DATA 	♡ . </a>
  </em></p>
@@ -26,7 +26,14 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/MarnieGrenat)
 
 <div>
-  <a href="https://github.com/MarnieGrenat"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marniegrenat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/MarnieGrenat">
+   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=marniegrenat&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+   </a>
+
+<div>
+<a href="https://github.com/MarnieGrenat"> 
+ <img align="center" height="191em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marniegrenat&theme=synthwave&hide=javascript,html"/>
+ </a>
 
 <!--
 things I can put in the future on my profile:
