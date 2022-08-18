@@ -27,12 +27,12 @@
 
 <div>
   <a href="https://github.com/MarnieGrenat">
-   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=marniegrenat&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+   <img align="center" height="176em" src="https://github-readme-stats.vercel.app/api?username=marniegrenat&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
    </a>
 
 <div>
 <a href="https://github.com/MarnieGrenat"> 
- <img align="center" height="191em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marniegrenat&theme=synthwave&hide=javascript,html"/>
+ <img align="center" height="187em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marniegrenat&theme=synthwave&hide=javascript,html"/>
  </a>
 
 <!--
