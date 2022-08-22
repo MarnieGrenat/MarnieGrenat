@@ -1,5 +1,5 @@
 ### Hi, I'm Gabriela ;D
-<img align='right' src="https://raw.githubusercontent.com/MarnieGrenat/images-readme/main/java%20book%20edited2.png" width="250">
+<img align='right' src="https://raw.githubusercontent.com/MarnieGrenat/images-readme/main/java%20book%20edited2.png" width="175">
 <p><em> A data cientist student in love with data security, cybersecurity and BIG DATA 	♡ . </a>
  </em></p>
  
@@ -27,13 +27,17 @@
 
 <div>
   <a href="https://github.com/MarnieGrenat">
-   <img align="left" height="176em" src="https://github-readme-stats.vercel.app/api?username=marniegrenat&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+   <img align="left" height="230em" src="https://github-readme-stats.vercel.app/api?username=marniegrenat&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
    </a>
 
+<!--
 <div>
 <a href="https://github.com/MarnieGrenat"> 
  <img align="left" height="187em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marniegrenat&theme=synthwave&hide=javascript,html"/>
  </a>
+size for the gitstats: 176em
+ -->
+ 
  ![Snake animation](https://github.com/MarnieGrenat/MarnieGrenat/blob/output/github-contribution-grid-snake.svg)
 <!--
 things I can put in the future on my profile:
