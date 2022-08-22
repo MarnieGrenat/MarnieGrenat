@@ -34,7 +34,7 @@
 <a href="https://github.com/MarnieGrenat"> 
  <img align="left" height="187em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marniegrenat&theme=synthwave&hide=javascript,html"/>
  </a>
-
+ ![Snake animation](https://github.com/MarnieGrenat/MarnieGrenat/blob/output/github-contribution-grid-snake.svg)
 <!--
 things I can put in the future on my profile:
 - 🔭 I’m currently working on ...
