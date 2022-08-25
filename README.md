@@ -5,8 +5,6 @@
  
 <p align="left">
  Languages and Skills: <strong>Javascript, Python and Java </strong>
- <p align="left"> <strong>- 📫 How to reach me: </strong> gabriela@dellamora.dev
-</p>
 <p align="left"> <strong> - 😄 Pronouns: </strong> She/her and they/them
  </p>
  <p align="left"> <strong> - 🖖 I’m currently learning: </strong> Python!
@@ -15,6 +13,8 @@
  </p>
   <p align="left"> <strong> - 👀 I’m currently working on: </strong> Java Library for sorting algorithms
  </p>
+  <p align="left"> <strong>- 📫 How to reach me: </strong> gabriela@dellamora.dev
+</p>
 
 <p align="left">
  <strong> - :blue_heart: Find me: </strong>
