@@ -33,7 +33,7 @@
 <!--
 <div>
 <a href="https://github.com/MarnieGrenat"> 
- <img align="left" height="187em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marniegrenat&theme=synthwave&hide=javascript,html"/>
+ <img align="left" height="187em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marniegrenat&theme=jolly&hide=javascript,html"/>
  </a>
 size for the gitstats: 176em
  -->
