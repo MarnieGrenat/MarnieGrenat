@@ -1,6 +1,6 @@
 ### Hi, I'm Gabriela ;D
 <img align='right' src="https://raw.githubusercontent.com/MarnieGrenat/images-readme/main/java%20book%20edited2.png" width="175">
-<p><em> A data cientist student in love with data security, cybersecurity and BIG DATA 	♡ . </a>
+<p><em> A data science student in love with data security, cybersecurity and BIG DATA 	♡ . </a>
  </em></p>
  
 <p align="left">
@@ -39,7 +39,12 @@ size for the gitstats: 176em
  -->
  
  ![Snake animation](https://github.com/MarnieGrenat/MarnieGrenat/blob/output/github-contribution-grid-snake.svg)
-<!--
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+ 
+ <!--
 things I can put in the future on my profile:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
