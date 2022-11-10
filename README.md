@@ -4,10 +4,10 @@
  </em></p>
  
 <p align="left">
- Languages and Skills: <strong>Javascript, Python and Java </strong>
+ Languages and Skills: <strong>Javascript, Python, Java, and Swift! </strong>
 <p align="left"> <strong> - 😄 Pronouns: </strong> She/her and they/them
  </p>
- <p align="left"> <strong> - 🖖 I’m currently learning: </strong> Python!
+ <p align="left"> <strong> - 🖖 I’m currently learning: </strong> Python and Swift!
  </p>
  <p align="left"> <strong> - 	:woman_student: student at uni:  </strong> PUC-RS
  </p>
