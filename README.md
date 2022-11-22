@@ -25,24 +25,26 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarnieGrenat)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/MarnieGrenat)
 
+
+<!-- Bloco de Status
 <div>
   <a href="https://github.com/MarnieGrenat">
    <img align="left" height="230em" src="https://github-readme-stats.vercel.app/api?username=marniegrenat&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
    </a>
-
-<!--
+-->
+<!-- Bloco de códigos
 <div>
 <a href="https://github.com/MarnieGrenat"> 
  <img align="left" height="187em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marniegrenat&theme=jolly&hide=javascript,html"/>
  </a>
 size for the gitstats: 176em
- -->
- 
- ![Snake animation](https://github.com/MarnieGrenat/MarnieGrenat/blob/output/github-contribution-grid-snake.svg)
+-->
+
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
+ 
+ ![Snake animation](https://github.com/MarnieGrenat/MarnieGrenat/blob/output/github-contribution-grid-snake.svg)
  
  <!--
 things I can put in the future on my profile:
