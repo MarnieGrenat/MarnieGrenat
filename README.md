@@ -39,10 +39,9 @@
  </a>
 size for the gitstats: 176em
 -->
-
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
  
  ![Snake animation](https://github.com/MarnieGrenat/MarnieGrenat/blob/output/github-contribution-grid-snake.svg)
  
