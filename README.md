@@ -5,7 +5,7 @@
  
 <p align="left">
  Languages and Skills: <strong>Javascript, Python, Java, and Swift! </strong>
-<p align="left"> <strong> - 😄 Pronouns: </strong> She/her and they/them
+<p align="left"> <strong> - 😄 Pronouns: </strong> She/her
  </p>
  <p align="left"> <strong> - 🖖 I’m currently learning: </strong> Python and Swift!
  </p>
