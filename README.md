@@ -40,6 +40,17 @@
 size for the gitstats: 176em
 -->
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 19 hrs 13 mins
+
+Python           18 hrs          ███████████████████████▒░   93.55 %
+Markdown         52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+Java             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Text             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+```
+
 <!--END_SECTION:waka-->
 
  
