@@ -42,13 +42,14 @@ size for the gitstats: 176em
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 19 hrs 13 mins
+From: 22 August 2022 - To: 26 November 2022
 
-Python           18 hrs          ███████████████████████▒░   93.55 %
-Markdown         52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-Java             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Text             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Total Time: 51 hrs 49 mins
+
+Python           43 hrs 15 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀   83.49 %
+Markdown         3 hrs 42 mins   ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.16 %
+JavaScript       2 hrs 6 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.06 %
+Other            52 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.70 %
 ```
 
 <!--END_SECTION:waka-->
