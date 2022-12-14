@@ -42,12 +42,12 @@ size for the gitstats: 176em
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 December 2022 - To: 12 December 2022
+From: 06 December 2022 - To: 13 December 2022
 
-Total Time: 4 hrs 30 mins
+Total Time: 4 hrs 28 mins
 
-Python       3 hrs 41 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀   82.16 %
-Other        22 mins         ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.47 %
+Python       3 hrs 39 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀   82.02 %
+Other        22 mins         ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.53 %
 ```
 
 <!--END_SECTION:waka-->
