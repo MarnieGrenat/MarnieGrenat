@@ -42,7 +42,11 @@ size for the gitstats: 176em
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 11 January 2023 - To: 18 January 2023
+
+Total Time: 3 mins
+
+Other   3 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
