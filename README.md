@@ -7,7 +7,7 @@
  Languages and Skills: <strong>Javascript, Python, Java, and Swift! </strong>
 <p align="left"> <strong> - 😄 Pronouns: </strong> She/her
  </p>
- <p align="left"> <strong> - 🖖 I’m currently learning: </strong> R!
+ <p align="left"> <strong> - 🖖 I’m currently learning: </strong> C++!
  </p>
  <p align="left"> <strong> - 	:woman_student: student at uni:  </strong> PUC-RS
  </p>
