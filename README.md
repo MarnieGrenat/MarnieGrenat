@@ -11,7 +11,7 @@
  </p>
  <p align="left"> <strong> - 	:woman_student: student at uni:  </strong> PUC-RS
  </p>
-  <p align="left"> <strong> - 👀 I’m currently working on: </strong> Java Library for sorting algorithms
+  <p align="left"> <strong> - 👀 I’m currently working on: </strong> Personal projects!
  </p>
   <p align="left"> <strong>- 📫 How to reach me: </strong> gabriela@dellamora.dev
 </p>
