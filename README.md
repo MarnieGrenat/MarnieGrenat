@@ -1,5 +1,5 @@
 ### Hi, I'm Gabriela ;D
-<img align='right' src="https://raw.githubusercontent.com/MarnieGrenat/images-readme/main/c%2B%2B%20anime%20girl.png"  width="330">
+<img align='right' src="https://raw.githubusercontent.com/MarnieGrenat/images-readme/main/c%2B%2B%20anime%20girl.png"  width="328">
 
 <!-- "https://raw.githubusercontent.com/MarnieGrenat/images-readme/main/java%20book%20edited2.png" width="150" -->
 <p><em> A data science student in love with cybersecurity and BIG DATA 	♡ . </a>
