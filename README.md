@@ -1,6 +1,6 @@
  ### Hi, I'm Gabriela ;D
 
-<img align='right' src= "https://raw.githubusercontent.com/MarnieGrenat/images-readme/main/java%20book%20edited2.png" width="150">
+<img align='right' src= "https://raw.githubusercontent.com/MarnieGrenat/images-readme/main/java%20book%20edited2.png" width="160">
 <h3><em> As a data science student, I  thrive on exploring the mysteries of BIG DATA, taming the wildest data sets and keeping it safe with my love for cybersecurity ♡ 	♡ .
  </em></h3>
  <h2>Languages and Skills:  </h2>
