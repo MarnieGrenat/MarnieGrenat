@@ -1,8 +1,6 @@
  ### Hi, I'm Gabriela ;D
 
-<img align='right' src="https://raw.githubusercontent.com/MarnieGrenat/images-readme/main/c%2B%2B%20anime%20girl.png"  width="315">
-
-<!-- "https://raw.githubusercontent.com/MarnieGrenat/images-readme/main/java%20book%20edited2.png" width="150" -->
+<img align='right' src= "https://raw.githubusercontent.com/MarnieGrenat/images-readme/main/java%20book%20edited2.png" width="150">
 <h3><em> As a data science student, I  thrive on exploring the mysteries of BIG DATA, taming the wildest data sets and keeping it safe with my love for cybersecurity ♡ 	♡ .
  </em></h3>
  <h2>Languages and Skills:  </h2>
@@ -48,7 +46,7 @@
 <!-- Bloco de códigos
 <div>
 <a href="https://github.com/MarnieGrenat"> 
- <img align="left" height="187em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marniegrenat&theme=jolly&hide=javascript,html"/>
+ <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marniegrenat&theme=jolly&hide=javascript,html"/>
  </a>
 size for the gitstats: 176em
 -->
