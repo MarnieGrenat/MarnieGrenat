@@ -8,6 +8,7 @@
  <li>Python 🐍</li>
  <li>Java ☕</li>
  <li>Javascript 🌟</li>
+ <li>Assembly MIPS 💻 </li>
  <li>Swift 📱</li>
 </ul>
 
