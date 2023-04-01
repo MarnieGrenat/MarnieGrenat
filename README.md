@@ -1,31 +1,42 @@
-### Hi, I'm Gabriela ;D
+ ### Hi, I'm Gabriela ;D
+
 <img align='right' src="https://raw.githubusercontent.com/MarnieGrenat/images-readme/main/c%2B%2B%20anime%20girl.png"  width="315">
 
 <!-- "https://raw.githubusercontent.com/MarnieGrenat/images-readme/main/java%20book%20edited2.png" width="150" -->
-<p><em> A data science student in love with cybersecurity and BIG DATA 	♡ . </a>
- </em></p>
- 
-<p align="left">
- Languages and Skills: <strong>Javascript, Python, Java, and Swift! </strong>
-<p align="left"> <strong> - 😄 Pronouns: </strong> She/her
- </p>
- <p align="left"> <strong> - 🖖 I’m currently learning: </strong> C++!
- </p>
- <p align="left"> <strong> - 	:woman_student: student at uni:  </strong> PUC-RS
- </p>
-  <p align="left"> <strong> - 👀 I’m currently working at: </strong> Igoal Tecnologia!
- </p>
-  <p align="left"> <strong>- 📫 How to reach me: </strong> gabriela@dellamora.dev
-</p>
+<h3><em> As a data science student, I  thrive on exploring the mysteries of BIG DATA, taming the wildest data sets and keeping it safe with my love for cybersecurity ♡ 	♡ .
+ </em></h3>
+ <h2>Languages and Skills:  </h2>
+ <ul>
+ <li>Python 🐍</li>
+ <li>Java ☕</li>
+ <li>Javascript 🌟</li>
+ <li>Swift 📱</li>
+</ul>
 
-<p align="left">
- <strong> - :blue_heart: Find me: </strong>
-</p>
+<h2> About me: </h2>
+ <ul>
+   <li align="left"> <strong>  😄 Pronouns: </strong> She/her
+   </li>
+   <li align="left"> <strong> 🤓 Currently geeking out on: </strong> C++! 
+   </li>
+   <li align="left"> <strong>  	:woman_student: student at uni:  </strong> PUC-RS
+   </li>
+    <li align="left"> <strong>  👀 I’m currently working at: </strong> Igoal Tecnologia!
+   </li>
+    <li align="left"> <strong> 📫 How to reach me: </strong> gabriela@dellamora.dev
+   </li>
+   <li align="left">
+   <strong>  :blue_heart: Find me: </strong>
+   </li>
+<br>
 
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-dellamora/)
+   [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarnieGrenat)
+   [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/MarnieGrenat)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-dellamora/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarnieGrenat)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/MarnieGrenat)
+</ul>
+
+<h5>Let's connect and code some amazing projects together! 💻✨</h5>
 
 
 <!-- Bloco de Status
@@ -58,7 +69,7 @@ Text         27 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
  ![Snake animation](https://github.com/MarnieGrenat/MarnieGrenat/blob/output/github-contribution-grid-snake.svg)
- 
+
  <!--
 things I can put in the future on my profile:
 - 🔭 I’m currently working on ...
