@@ -12,6 +12,7 @@
  <li>Swift 📱</li>
  <li>HTML 🌐</li>
  <li>CSS 🎨</li>
+ <li>C++ 🚀</li>
 </ul>
 <h2> About me: </h2>
  <ul>
