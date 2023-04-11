@@ -4,14 +4,15 @@
 <h3><em> As a data science student, I  thrive on exploring the mysteries of BIG DATA, taming the wildest data sets and keeping it safe with my love for cybersecurity ♡ 	♡ .
  </em></h3>
  <h2>Languages and Skills:  </h2>
- <ul>
+<ul>
  <li>Python 🐍</li>
  <li>Java ☕</li>
  <li>Javascript 🌟</li>
- <li>Assembly MIPS 💻 </li>
+ <li>Assembly MIPS 💻</li>
  <li>Swift 📱</li>
+ <li>HTML 🌐</li>
+ <li>CSS 🎨</li>
 </ul>
-
 <h2> About me: </h2>
  <ul>
    <li align="left"> <strong>  😄 Pronouns: </strong> She/her
