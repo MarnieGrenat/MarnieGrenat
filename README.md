@@ -24,7 +24,7 @@
    </li>
     <li align="left"> <strong>  👀 I’m currently working at: </strong> Igoal Tecnologia!
    </li>
-    <li align="left"> <strong> 📫 How to reach me: </strong> gabriela@dellamora.dev
+    <li align="left"> <strong> 📫 How to reach me: </strong> gabidellapaim@gmail.com
    </li>
    <li align="left">
    <strong>  :blue_heart: Find me: </strong>
