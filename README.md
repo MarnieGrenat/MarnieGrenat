@@ -58,7 +58,8 @@ C                0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
- ![Snake animation](https://github.com/MarnieGrenat/MarnieGrenat/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/MarnieGrenat/MarnieGrenat/blob/output/github-contribution-grid-snake-dark.svg)
+ <!--![Snake animation](https://github.com/MarnieGrenat/MarnieGrenat/blob/output/github-contribution-grid-snake.svg)-->
 
  <!--
 things I can put in the future on my profile:
