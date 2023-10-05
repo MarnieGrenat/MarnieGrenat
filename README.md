@@ -5,7 +5,15 @@
  </em></h3>
  <h2>Languages, Skills and IDEs:  </h2>
  
-[![My Skills](https://skills.thijs.gg/icons?i=py,java,js,cpp,c,html,css,swift,git,mysql,sqlite,regex,raspberrypi,flask,pytorch,latex,linux,arduino,vscode&perline=5)](https://skills.thijs.gg)
+ <!--
+
+
+[![Marnie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarnieGrenat)](https://github.com/marniegrenat/github-readme-stats)
+<a href="https://github.com/MarnieGrenat"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarnieGrenat&theme=github_dark&hide=html,css,cmake,shell,makefile&layout=compact&langs_count=6&hide_progress=true&hide_title=true"></a>
+
+-->
+
+[![My Skills](https://skills.thijs.gg/icons?i=py,java,js,cpp,c,html,css,swift,git,mysql,sqlite,regex,raspberrypi,flask,pytorch,latex,linux,arduino,vscode&perline=10)](https://skills.thijs.gg)
 <h2> About me: </h2>
  <ul>
    <li align="left"> <strong>  😄 Pronouns: </strong> She/her
@@ -60,6 +68,7 @@ Objective-C   3 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
  ![Snake animation](https://github.com/MarnieGrenat/MarnieGrenat/blob/output/github-contribution-grid-snake-dark.svg)
  <!--![Snake animation](https://github.com/MarnieGrenat/MarnieGrenat/blob/output/github-contribution-grid-snake.svg)-->
+
 
  <!--
 things I can put in the future on my profile:
