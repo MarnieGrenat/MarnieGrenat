@@ -18,7 +18,7 @@
  <ul>
    <li align="left"> <strong>  😄 Pronouns: </strong> She/her
    </li>
-   <li align="left"> <strong> 🤓 Currently geeking out on: </strong> IoT! 
+   <li align="left"> <strong> 🤓 Currently geeking out on: </strong> Mobile Development! 
    </li>
    <li align="left"> <strong>  	:woman_student: student at uni:  </strong> PUC-RS
    </li>
