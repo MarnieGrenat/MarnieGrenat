@@ -18,11 +18,11 @@
  <ul>
    <li align="left"> <strong>  😄 Pronouns: </strong> She/her
    </li>
-   <li align="left"> <strong> 🤓 Currently geeking out on: </strong> Mobile Development! 
+   <li align="left"> <strong> 🤓 Currently geeking out on: </strong> INFOSEC! 
    </li>
    <li align="left"> <strong>  	:woman_student: student at uni:  </strong> PUC-RS
    </li>
-    <li align="left"> <strong>  👀 I’m currently working at: </strong> Igoal Tecnologia!
+    <li align="left"> <strong>  👀 I’m currently working at: </strong> 👀👀👀👀👀👀!
    </li>
     <li align="left"> <strong> 📫 How to reach me: </strong> gabrieladellamora@gmail.com
     </li>
