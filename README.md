@@ -18,19 +18,21 @@
  <ul>
    <li align="left"> <strong>  😄 Pronouns: </strong> She/her
    </li>
-   <li align="left"> <strong> 🤓 Currently geeking out on: </strong> INFOSEC! 
+   <li align="left"> <strong> 🤓 Currently geeking out on: </strong> InfoSec! 
    </li>
    <li align="left"> <strong>  	:woman_student: student at uni:  </strong> PUC-RS
    </li>
-    <li align="left"> <strong>  👀 I’m currently working at: </strong> 👀👀👀👀👀👀!
+    <li align="left"> <strong>  👀 I’m currently working at: </strong> Nelogica
    </li>
-    <li align="left"> <strong> 📫 How to reach me: </strong> gabrieladellamora@gmail.com
+    <li align="left"> <strong> 📫 How to reach me: </strong> gabriela.dellamora@gmail.com
     </li>
  </ul> 
 
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-dellamora/) 
    [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarnieGrenat)
+   <!--
    [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/MarnieGrenat) 
+   -->
 <h2>Let's connect and code some fun projects together! 💻✨</h5>
 
 
