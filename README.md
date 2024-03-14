@@ -56,7 +56,7 @@ size for the gitstats: 176em
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2024 - To: 12 March 2024
+From: 06 March 2024 - To: 13 March 2024
 
 Total Time: 8 hrs 7 mins
 
