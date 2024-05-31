@@ -20,6 +20,9 @@
  <li align="left"> 
   <strong>  👀 I’m currently working at: </strong> Nelogica
  </li>
+  <li align="left"> 
+  <strong>  🎮 Game Developer at: </strong> DeerFrog Studios
+ </li>
  <li align="left"> 
   <strong> 📫 How to reach me: </strong> gabriela.dellamora@gmail.com
  </li>
