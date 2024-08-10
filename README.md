@@ -1,5 +1,5 @@
 <img src= "https://raw.githubusercontent.com/MarnieGrenat/images-readme/main/Frieren.jpg" align='left' width="400">
-<h3><i>As a data science student, I  thrive on exploring the mysteries of BIG DATA, taming the wildest data sets and keeping it safe with my love for cybersecurity ♡ 	♡ .</i></h3>
+<h3><i>As a data science student, I  thrive on exploring the mysteries of BIG DATA, taming the wildest data sets and keeping it safe with my love for cybersecurity ♡ 	♡ ...</i></h3>
 
 <samp>
 <br>
@@ -30,6 +30,7 @@
 
 <b><i>Contact me:</i></b> gabriela.dellamora@gmail.com
 </samp>
+<br>
 <br>
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=py,java,js,cpp,c,html,css,swift,git,mysql,sqlite,regex,raspberrypi,flask,pytorch,latex,linux,arduino,vscode,eclipse,&perline=10)](https://skillicons.dev) -->
