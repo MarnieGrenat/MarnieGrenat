@@ -2,7 +2,9 @@
 <h3><i>As a data science student, I  thrive on exploring the mysteries of BIG DATA, taming the wildest data sets and keeping it safe with my love for cybersecurity ♡ 	♡ </i></h3>
 
 <samp>
-<br>
+<br> 
+ 
+\- Portuguese, English, Spanish and Japanese
 
 \- Information Security Consultant 
 
@@ -26,11 +28,8 @@
 
 \- Team and Project Management : [DeerFrog Studios](https://github.com/DeerFrog-Studios)
 
-\- Security Development Lifecycle : [Still Planning Project]()
-
 <b><i>Contact me:</i></b> gabriela.dellamora@gmail.com
 </samp>
-<br>
 <br>
 <br>
 <br>
