@@ -6,7 +6,7 @@
  
 \- Portuguese, English, Spanish and Japanese
 
-\- Information Security Consultant 
+\- Information Security Consultant at HeyNova
 
 \- Embedded Systems Developer
 
@@ -14,9 +14,8 @@
 
 \- Back-end Developer at Nelogica
 
-\- Security Consultant at HeyNova
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 <b><i>Languages:</i></b>
 
