@@ -14,7 +14,9 @@
 
 \- Back-end Developer at Nelogica
 
-<br><br><br><br><br>
+\- Security Consultant at HeyNova
+
+<br><br><br><br>
 
 <b><i>Languages:</i></b>
 
