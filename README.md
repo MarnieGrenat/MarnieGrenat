@@ -19,7 +19,7 @@
 
 <b><i>Languages:</i></b>
 
-\- Python, Java, C, C++, Objective Pascal, ASM MIPS, ASM Windows x64, Swift, Javascript, Bat/Bash
+\- Python, Java, C, C++, Go, Objective Pascal, ASM MIPS, ASM Windows x64, Swift, Javascript, Bat/Bash
 
 <br><br>
 
