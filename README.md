@@ -6,20 +6,20 @@
  
 \- Portuguese, English, Spanish and Japanese
 
+\- Back-end Developer at Nelogica
+
 \- Information Security Consultant at HeyNova
 
 \- Embedded Systems Developer
 
 \- Studying Data Science and AI at PUC-RS
 
-\- Back-end Developer at Nelogica
-
 
 <br><br><br><br><br>
 
 <b><i>Languages:</i></b>
 
-\- Python, Java, C, C++, Go, Objective Pascal, ASM MIPS, ASM Windows x64, Swift, Javascript, Bat/Bash
+\- Python, Objective Pascal, Go,  C, C++,  Java,  ASM MIPS, ASM Windows x64, Swift, Javascript, Bat/Bash
 
 <br><br>
 
