@@ -1,4 +1,4 @@
-<img src= "https://raw.githubusercontent.com/MarnieGrenat/images-readme/main/Frieren.jpg" align='left' width="400">
+<img src= "https://raw.githubusercontent.com/MarnieGrenat/images-readme/main/Frieren.jpg" align='left' width="395">
 <h3><i>As a data science student, I  thrive on exploring the mysteries of BIG DATA, taming the wildest data sets and keeping it safe with my love for cybersecurity ♡ 	♡ </i></h3>
 
 <samp>
