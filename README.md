@@ -8,8 +8,6 @@
 
 \- Back-end Developer at Nelogica
 
-\- Information Security Consultant at HeyNova
-
 \- Embedded Systems Developer
 
 \- Studying Data Science and AI at PUC-RS
