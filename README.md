@@ -28,7 +28,7 @@
 
 \- 💼 [LinkedIn](https://www.linkedin.com/in/gabriela-dellamora)
 
-\- 🚩 [TryHackMe](https://tryhackme.com/p/gabidellapaim) · [HackTheBox](https://profile.hackthebox.com/profile/01a1ecf5-2389-73dc-842f-d8bb71556ee6)
+\- 🚩 [TryHackMe](https://tryhackme.com/p/Dellamora) · [HackTheBox](https://profile.hackthebox.com/profile/01a1ecf5-2389-73dc-842f-d8bb71556ee6)
 
 </samp>
 
