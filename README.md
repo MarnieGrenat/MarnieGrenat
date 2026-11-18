@@ -1,40 +1,38 @@
-<img src= "https://raw.githubusercontent.com/MarnieGrenat/images-readme/main/Frieren.jpg" align='left' width="395">
-<h3><i>As a data science student, I  thrive on exploring the mysteries of BIG DATA, taming the wildest data sets and keeping it safe with my love for cybersecurity ♡ 	♡ </i></h3>
+<img src="https://raw.githubusercontent.com/MarnieGrenat/images-readme/main/marcille.jpg" alt="Marcille" align="left" width="340">
+
+<h3><i>Data science student at PUC-RS who loves making sense of messy data and breaking things (ethically) ♡</i></h3>
 
 <samp>
-<br> 
- 
-\- Portuguese, English, Spanish and Japanese
 
-\- Back-end Developer at Nelogica
+\- Back-end Developer
 
-\- Embedded Systems Developer
+\- Offensive Security Analyst
 
 \- Studying Data Science and AI at PUC-RS
 
+\- Speaks Portuguese, English, Spanish and Japanese
 
-<br><br><br><br><br>
+<br>
 
-<b><i>Languages:</i></b>
+<b><i>I code using:</i></b>
 
-\- Python, R, Object Pascal, Golang, C++, Javascript
+\- TypeScript, Go, Python, R, C++, Object Pascal
 
-<br><br>
+<br>
 
-<b><i>Current Projects:</i></b>
+<b><i>Find me:</i></b>
 
-\-  Embedded System Development : [MonBot, ESP32 Safety Monitor](https://github.com/MarnieGrenat/MonBot)
+\- 🌐 [grenat.dev](https://grenat.dev)
 
-\- Team and Project Management : [DeerFrog Studios](https://github.com/DeerFrog-Studios)
+\- ✉️ gabriela.dellamora@gmail.com
 
-<b><i>Contact me:</i></b> gabriela.dellamora@gmail.com
+\- 💼 [LinkedIn](https://www.linkedin.com/in/gabriela-dellamora)
+
+\- 🚩 [TryHackMe](https://tryhackme.com/p/gabidellapaim) · [HackTheBox](https://profile.hackthebox.com/profile/01a1ecf5-2389-73dc-842f-d8bb71556ee6)
+
 </samp>
-<br>
-<br>
-<br>
-<br>
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=py,java,js,cpp,c,html,css,swift,git,mysql,sqlite,regex,raspberrypi,flask,pytorch,latex,linux,arduino,vscode,eclipse,&perline=10)](https://skillicons.dev) -->
+<br clear="both">
 
 <!--START_SECTION:waka-->
 
@@ -51,5 +49,3 @@ Python            53 mins               ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
- <!-- ![Snake animation](https://github.com/MarnieGrenat/MarnieGrenat/blob/output/github-contribution-grid-snake-dark.svg) -->
